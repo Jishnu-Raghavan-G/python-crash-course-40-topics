@@ -1,7 +1,11 @@
 # Working with Numbers
 
-Use math module for advanced functions.
+Python provides math functions.
+
+## Math Module
+Used for advanced calculations
 
 Example:
-import math
-math.sqrt(16)
+- square root
+- rounding
+- absolute values
