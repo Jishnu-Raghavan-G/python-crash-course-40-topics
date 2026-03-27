@@ -129,5 +129,5 @@ python file_name.py
 
 ## 👨‍💻 Author
 
-**Jishnu Raghavan**
+**Jishnu Raghavan G**
 
