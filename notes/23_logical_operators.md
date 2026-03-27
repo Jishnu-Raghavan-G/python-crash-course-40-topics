@@ -1,7 +1,5 @@
-age = 20
-has_id = True
+# Logical Operators
 
-if age >= 18 and has_id:
-    print("Allowed")
-else:
-    print("Not allowed")
+and → both true  
+or → one true  
+not → reverse condition  
