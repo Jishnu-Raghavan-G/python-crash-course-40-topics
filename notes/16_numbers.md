@@ -1,8 +1,14 @@
 # Numbers
 
-Types:
-- int
-- float
+Python supports:
+- int (integer)
+- float (decimal)
 
-Operations:
-+ - * / // % **
+## Operations
++  addition  
+-  subtraction  
+*  multiplication  
+/  division  
+// floor division  
+%  modulus  
+** power
