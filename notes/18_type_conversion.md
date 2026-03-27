@@ -1,5 +1,9 @@
 # Type Conversion
 
-int()
-float()
-str()
+Converting one data type to another.
+
+Functions:
+- int()
+- float()
+- str()
+- bool()
